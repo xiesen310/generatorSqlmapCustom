@@ -1,0 +1,4 @@
+# generatorSqlmapCustom
+
+修改generatorConfig.xml文件中数据库的链接，所在包的路径，以及表和表名即可
+执行GeneratorSqlmap文件就可以生成对应的model类及映射文件
